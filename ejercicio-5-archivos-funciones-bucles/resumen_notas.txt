@@ -1,0 +1,5 @@
+RESUMEN DEL EXAMEN
+Número de estudiantes: 13
+Nota media: 6.27
+Aprobados: 9
+Suspensos: 4
