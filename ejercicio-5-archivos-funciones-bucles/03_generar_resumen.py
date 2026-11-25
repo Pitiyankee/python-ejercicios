@@ -23,7 +23,7 @@ def crear_resumen(contenido):
 
     media = suma / total
     return (
-        "RESUMEN DEL EXAMEN\n"
+        "RESUMEN DEL CURSO\n"
         f"Número de estudiantes: {total}\n"
         f"Nota media: {media:.2f}\n"
         f"Aprobados: {aprobados}\n"

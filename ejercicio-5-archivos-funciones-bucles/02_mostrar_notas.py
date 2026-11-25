@@ -2,7 +2,7 @@ archivo = open("notas.txt", "r", encoding="utf-8")
 registros = archivo.read().splitlines()
 archivo.close()
 
-print("NOTAS DEL EXAMEN")
+print("NOTAS DEL CURSO")
 i = 0
 while i < len(registros):
     if registros[i].strip() != "":
