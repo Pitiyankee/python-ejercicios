@@ -1,4 +1,4 @@
-# Prácticas de Python
+# Ejercicios de Python
 
 Ejercicios de Python 3 sobre bucles, selección, el módulo `math`, diccionarios, archivos de texto y funciones. Cada carpeta es independiente y se ejecuta con `python <archivo>.py`.
 
